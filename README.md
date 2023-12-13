@@ -1,2 +1,2 @@
 # test_repo
-### Thirs repository is for practice purposes of git
+This repository is for practice purposes of git
